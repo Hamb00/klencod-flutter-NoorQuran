@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نور القرآن</string>
+
+    <!-- التنقل -->
+    <string name="nav_quran">المصحف</string>
+    <string name="nav_search">البحث</string>
+    <string name="nav_bookmarks">العلامات</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- عام -->
+    <string name="back">رجوع</string>
+    <string name="close">إغلاق</string>
+    <string name="clear">مسح</string>
+    <string name="more">المزيد</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="copy">نسخ الآية</string>
+    <string name="share">مشاركة</string>
+
+    <!-- التنزيل الأول -->
+    <string name="sync_title">أهلاً بك في نور القرآن</string>
+    <string name="sync_desc">سيُحمَّل المصحف الشريف مرة واحدة فقط، وبعدها يعمل التطبيق بالكامل دون إنترنت.</string>
+    <string name="sync_button">تحميل المصحف</string>
+    <string name="sync_loading">جارٍ تحميل المصحف…</string>
+    <string name="sync_error">تعذّر التحميل. تأكد من اتصالك بالإنترنت ثم أعد المحاولة.</string>
+
+    <!-- الرئيسية -->
+    <string name="tab_surahs">السور</string>
+    <string name="tab_juz">الأجزاء</string>
+    <string name="meccan">مكية</string>
+    <string name="medinan">مدنية</string>
+    <string name="surah_meta">%1$s • %2$s • %3$s آية</string>
+    <string name="juz_title">الجزء %1$s</string>
+    <string name="juz_start">يبدأ من سورة %1$s، الآية %2$s</string>
+    <string name="continue_reading">متابعة القراءة</string>
+    <string name="continue_reading_desc">سورة %1$s • الآية %2$s</string>
+
+    <!-- القراءة -->
+    <string name="reader_subtitle">%1$s • %2$s آية</string>
+    <string name="page_title">صفحة %1$s</string>
+    <string name="font_smaller">تصغير الخط</string>
+    <string name="font_larger">تكبير الخط</string>
+    <string name="next_surah">السورة التالية</string>
+    <string name="play_from_here">استماع من هذه الآية</string>
+    <string name="bookmark_add">إضافة علامة</string>
+    <string name="bookmark_remove">حذف العلامة</string>
+    <string name="tafsir_title">التفسير الميسر</string>
+    <string name="tafsir_error">تعذّر تحميل التفسير. يلزم اتصال بالإنترنت أول مرة.</string>
+
+    <!-- المشغّل -->
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="next">التالي</string>
+    <string name="previous">السابق</string>
+    <string name="stop">إيقاف التلاوة</string>
+    <string name="repeat_ayah">تكرار الآية</string>
+    <string name="speed_value">السرعة ×%1$s</string>
+    <string name="sleep_in">إيقاف بعد %1$s دقيقة</string>
+    <string name="sleep_left">يتوقف بعد %1$s د</string>
+    <string name="sleep_cancel">إلغاء مؤقت النوم</string>
+
+    <!-- البحث -->
+    <string name="search_hint">ابحث بكلمة من الآية أو باسم السورة</string>
+    <string name="search_prompt">اكتب كلمة أو اسم سورة. البحث لا يتأثر بالتشكيل.</string>
+    <string name="search_empty">لا توجد نتائج.</string>
+    <string name="results_surahs">السور</string>
+    <string name="results_ayahs">الآيات</string>
+
+    <!-- العلامات -->
+    <string name="bookmarks_empty">لا توجد علامات بعد</string>
+    <string name="bookmarks_empty_hint">اضغط على أي آية أثناء القراءة ثم اختر «إضافة علامة».</string>
+
+    <!-- الإعدادات -->
+    <string name="settings_appearance">المظهر</string>
+    <string name="theme_system">النظام</string>
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+    <string name="dynamic_color">ألوان النظام</string>
+    <string name="dynamic_color_desc">استخدام ألوان خلفية الجهاز (Material You)</string>
+    <string name="settings_reading">القراءة</string>
+    <string name="font_size">حجم الخط</string>
+    <string name="show_tafsir">إظهار التفسير</string>
+    <string name="show_tafsir_desc">عرض التفسير الميسر عند الضغط على الآية</string>
+    <string name="keep_screen_on">إبقاء الشاشة مضاءة أثناء القراءة</string>
+    <string name="settings_audio">الصوت</string>
+    <string name="reciter">القارئ</string>
+    <string name="settings_about">حول التطبيق</string>
+    <string name="version">الإصدار</string>
+    <string name="credits">المصادر</string>
+    <string name="credits_desc">النص: api.alquran.cloud (الرسم العثماني، التفسير الميسر). التلاوات: everyayah.com</string>
+</resources>
